@@ -129,44 +129,7 @@ edgeinspect-pro/
 └── docs/
 ```
 
-You can adjust the folders depending on whether the implementation is mobile-first, Python-first, or CUDA/C++-first.
 
 ---
 
-## 10. Demo Checklist
 
-- [ ] Clear problem statement
-- [ ] Reproducible setup instructions
-- [ ] Baseline implementation
-- [ ] Optimized implementation
-- [ ] Benchmark script
-- [ ] Visual results or performance plots
-- [ ] Failure-case discussion
-- [ ] Resume-ready summary
-
----
-
-## 11. Resume / Portfolio Value
-
-Use a bullet like this on your resume:
-
-> Developed an offline industrial inspection assistant with quantized defect detection, segmentation, structured maintenance reporting, and Android deployment optimized for edge privacy and low-latency inference.
-
-You can also present this repo in interviews as a story:
-1. define the bottleneck,
-2. build the baseline,
-3. optimize the pipeline,
-4. benchmark on realistic workloads,
-5. explain tradeoffs and next steps.
-
----
-
-## 12. Possible Extensions
-
-- Add CI checks for smoke tests and benchmark regression tracking
-- Add experiment configuration files for reproducibility
-- Include a lightweight dashboard for metrics and artifacts
-- Compare multiple runtimes or model variants
-- Write a short technical report summarizing design decisions
-
----
